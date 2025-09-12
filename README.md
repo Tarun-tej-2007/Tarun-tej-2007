@@ -11,31 +11,25 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,git,github,vscode" />
+<p align="left" justifycontent="space-between">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,git,github,vscode,prisma,docker,flask" />
 </p>
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p>
 
 ---
 
 ### 🌟 Top Projects
-- [Movie App](https://github.com/your-username/movie-app)
 - [StudyShelf](https://github.com/your-username/studyshelf)
 
 ---
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="(https://www.linkedin.com/in/tarun-tej-b8a102344/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white">
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:taruntej947@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white">
   </a>
 </p>
