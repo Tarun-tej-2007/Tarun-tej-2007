@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tarun Tej</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 
-<!--
-**Tarun-tej-2007/Tarun-tej-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 I’m currently learning **Full-Stack Development**
+- 💬 Ask me about **C++, Python, React, Node.js**
+- 📫 How to reach me: **youremail@example.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
+
+---
+
+### 🌟 Top Projects
+- [Movie App](https://github.com/your-username/movie-app)
+- [StudyShelf](https://github.com/your-username/studyshelf)
+
+---
+
+### 📫 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white">
+  </a>
+</p>
