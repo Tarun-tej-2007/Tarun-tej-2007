@@ -31,7 +31,7 @@
 `MongoDB` · `MySQL` . `Postgresql` . `Redis`
 
 **Tools & Platforms**  
-`Git` · `GitHub` · `VS Code` · `Postman` . `Pytest` . `Sockets`
+`Git` · `GitHub` · `VS Code` · `Postman` . `Pytest` . `Sockets` . `Jest`
 
 ---
 
