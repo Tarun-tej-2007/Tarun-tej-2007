@@ -35,13 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
 
 ## 🌟 Featured Projects    
 - 📚 [StudyShelf]([https://github.com/your-username/studyshelf](https://github.com/kalviumcommunity/s81_tarun_StudyShelf.git)) — Book Recommendation App for Students  
