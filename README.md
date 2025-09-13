@@ -31,7 +31,7 @@
 `MongoDB` · `MySQL` . `Postgresql` . `Redis`
 
 **Tools & Platforms**  
-`Git` · `GitHub` · `VS Code` · `Postman` . `Pytest` . `Sockets` . `Jest`
+`Git` · `GitHub` · `VS Code` · `Postman` . `Pytest` . `Sockets` . `Jest` 
 
 ---
 
@@ -55,7 +55,7 @@
   <a href="https://www.linkedin.com/in/tarun-tej-b8a102344/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white">
   </a>
-  <a href="mailto:taruntej947@gmail.com"></a>
+  <a href="mailto:taruntej947@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white">
   </a>
   <a href="https://leetcode.com/u/tarun_tej_kondeti/" target="_blank">
